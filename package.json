@@ -2,7 +2,7 @@
   "name": "blockstagram",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://richarrrdv.github.io/hw4-richarrrdv",
+  "homepage": "https://fullstack-decal-fa22.github.io/hw4-richarrrdv/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
